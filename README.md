@@ -380,7 +380,7 @@ We deliberately distinguish the **working prototype** from the **production arch
 
 Our team has a proven record of building and competing under intense hackathon constraints:
 
-- 🥇 **First Runner-Up — Infinity Hacks 2026**
+- 🥇 **First Runner-Up — Infinity Hacks 2026 by HackerRank**
 - 🏆 **Top 5 — IIT Bombay Techfest**
 - 🏅 **Finalist — Mumbai Hacks 2025**
  AND participated and built at several other hackathons and are currently in final year of engineering
